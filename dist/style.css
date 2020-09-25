@@ -1,13 +1,15 @@
-@import C:\Users\PRO\tms\src\scss\header.scss;
-@import C:\Users\PRO\tms\src\scss\footer.scss;
-@import C:\Users\PRO\tms\src\scss\awesome.scss;
-@import C:\Users\PRO\tms\src\scss\contact.scss;
-@import C:\Users\PRO\tms\src\scss\custom.scss;
-@import C:\Users\PRO\tms\src\scss\design.scss;
-@import C:\Users\PRO\tms\src\scss\features.scss;
-@import C:\Users\PRO\tms\src\scss\price.scss;
-@import C:\Users\PRO\tms\src\scss\social.scss;
-@import C:\Users\PRO\tms\src\scss\top.scss б;
+@import "../src/scss/header.scss";
+@import "../src/scss/footer.scss";
+@import "../src/scss/custom.scss";
+@import "../src/scss/design.scss";
+@import "../src/scss/awesome.scss";
+@import "../src/scss/contact.scss";
+@import "../src/scss/features.scss";
+@import "../src/scss/price.scss";
+@import "../src/scss/social.scss";
+@import "../src/scss/top.scss";
+@import "../src/scss/media.css";
+@import "../src/scss/reset.css";
 .orange {
     color: #ff9b51
 }
