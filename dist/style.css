@@ -10,6 +10,7 @@
 @import "../src/scss/top.scss";
 @import "../src/scss/media.css";
 @import "../src/scss/reset.css";
+@import "../src/scss/main.scss";
 .orange {
     color: #ff9b51
 }
