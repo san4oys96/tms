@@ -1,0 +1,10 @@
+.header {
+  height: 100px;
+  background-color: #000;
+
+  &__block {
+    height: 90px;
+    width: 90px;
+    background-color: red;
+  }
+}
