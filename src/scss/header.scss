@@ -1,10 +1,24 @@
 .header {
-  height: 100px;
-  background-color: #000;
-
-  &__block {
-    height: 90px;
-    width: 90px;
-    background-color: red;
-  }
+  background-color: #000000;
+  padding: 20px 0;
+}
+.container__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-menu__item {
+  margin-right: 50px;
+  color: #c9c9c9;
+  text-decoration: none;
+  text-align: center;
+}
+.header-menu__item:hover {
+  color: #ff9b51;
+}
+.header-menu__item:last-child {
+  margin-right: 0;
+}
+.header__toggle-menu-button {
+  display: none;
 }
