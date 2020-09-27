@@ -2,13 +2,14 @@
     background-image: url(../../image/backgrund.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 130px;
   }
   .container__top {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding-top: 100px;
-    padding-bottom: 130px;
+
   }
   .top__left-block {
     width: 520px;
